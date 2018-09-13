@@ -2,7 +2,7 @@
 
 ## About
 In this your can enter your city and weather details will be displayed on the same page using Openweathermap API using this link below :
-[https://openweathermap.org/}
+[OpenWeathermap](https://openweathermap.org/)
 
 ## Requirements:
 1. Django : Install using (pip install django)
