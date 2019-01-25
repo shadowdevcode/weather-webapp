@@ -1,4 +1,4 @@
-# Weather-App-in-Django
+# Weather Web Application
 
 ## About
 
