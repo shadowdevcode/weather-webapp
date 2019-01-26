@@ -1,4 +1,4 @@
-# Weather Web Application
+# :sunny:  :foggy:  Weather Web Application  :cloud:  :umbrella: 
 
 ## About
 
